@@ -1,0 +1,28 @@
+	body {
+		background-color: pink;
+	}
+
+
+	h1{
+		font-size: 30px;
+		color: blue; 
+	}
+	h2 {
+		font-size: 20px; color:#70334C;
+	}
+
+	.big {
+		font-size: 60px;
+	}
+
+	.upper {
+		font-size: 80px;
+	}
+
+	.big.upper{
+	 color: red;
+	}
+
+	span{
+		color: violet;
+	}
